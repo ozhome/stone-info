@@ -64,7 +64,7 @@ Pronto, sua POS está configura e pronto para o uso;
 Para utilizar a nova POS é necessário instalar a nova versão do sistema Oz Totem, siga as seguintes etapas:
 
 - Abra o novo Oz Totem, [disponível aqui](https://totem-web.vercel.app/), no dispositivo que deseja usar como Totem;
-  - De preferencia utilize o navegador **Google Chrome**;
+  - De preferencia utilize o navegador **Google Chrome na última versão**;
 - Intale o aplicativo;
   - Para computadores, utilize o terceiro icone, da esquerda para direita: 
     - ![Exemplo 003](./images/example-003.png)
