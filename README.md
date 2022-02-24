@@ -18,7 +18,7 @@ Para dar continuidade é necessário possuir um cadastro com a Stone
 Agora é necessário vincular sua conta Stone com o sistema da Oz, para isso siga as etapas a seguir:
 
 - Tenha em mãos o Stone Code, [disponível aqui](https://ajuda.stone.com.br/onde-encontro-meu-stonecode);
-- Acesse o portal Oz CMS, [disponível aqui](https://cms.ozcandy.com.br/);
+- Acesse o portal Oz CMS, [disponível aqui](https://cms-test.ozcandy.com.br/);
 - Vá na aba de **Configurações**
 - Selecione **Configurar maquinas de cartão**;
 
@@ -48,7 +48,7 @@ Para realizar o vincúlo é necessário que o aplicativo **Stone Connect** estej
 Agora é possível configurar sua POS, siga as seguintes etapas:
 
 - Abra o aplicativo **Stone Connect** em seu POS;
-- Acesse o portal Oz CMS, [disponível aqui](https://cms.ozcandy.com.br/);
+- Acesse o portal Oz CMS, [disponível aqui](https://cms-test.ozcandy.com.br/);
 - Vá na aba de **Configurações**
 - Selecione **Configurar maquinas de cartão**;
 - Clique no botão **+** (mais), ao lado de Configurar maquina de cartão;
@@ -63,7 +63,7 @@ Pronto, sua POS está configura e pronto para o uso;
 
 Para utilizar a nova POS é necessário instalar a nova versão do sistema Oz Totem, siga as seguintes etapas:
 
-- Abra o novo Oz Totem, [disponível aqui](https://totem-web.vercel.app/), no dispositivo que deseja usar como Totem;
+- Abra o novo Oz Totem, [disponível aqui](https://totem-test.vercel.app/), no dispositivo que deseja usar como Totem;
   - De preferencia utilize o navegador **Google Chrome na última versão**;
 - Intale o aplicativo;
   - Para computadores, utilize o terceiro icone, da esquerda para direita: 
